@@ -1,16 +1,3 @@
-# hero_games_assignment
+Flutter 3.16.7 • channel stable • Tools • Dart 3.2.4 • DevTools 2.28.5
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/ozcantolgahan/herogamesassignment/assets/64232780/f237219b-73ae-49d9-a892-fa9bf503dd78
